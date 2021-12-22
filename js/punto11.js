@@ -24,3 +24,4 @@ total = valor1 / valor2;
 total = total.toFixed();
 
 alert(valor1 + " cabe " + total + " de veces en " + valor2);
+
